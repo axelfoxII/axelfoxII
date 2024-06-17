@@ -47,7 +47,8 @@ I am a software developer passionate about technology and innovation. I love lea
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![PrimeNG](https://img.shields.io/badge/PrimeNG-0052CC?style=for-the-badge&logo=primeng&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 <br>

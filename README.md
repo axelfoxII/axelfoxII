@@ -19,7 +19,7 @@
 - :school: I am a Developer `Junior`
 - :technologist: **Currently working on** `Frontend Development` **&** `Developer Backend`
 - :boom: You can visit [MY WEBSITE](https://axelfoxii-code.netlify.app) for some frontend knowledg
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:asfoxii@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Alex;color=EA4335&amp;style=flat-square)](mailto:asfoxii@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
@@ -124,8 +124,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------------
-
-Credit: [ElioChiu](https://github.com/ElioChiu)
-
-Last Edited on: 10/7/2023

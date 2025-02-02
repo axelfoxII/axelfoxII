@@ -20,6 +20,7 @@
 - 🌐 You can visit [MY WEBSITE](https://axelfoxii-code.netlify.app) for some frontend knowledge.
 - 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=Alex&color=EA4335&style=flat-square)](mailto:asfoxii@gmail.com).
 - 🤓 Always believe `"You are what you loved"`.
+- 📺 **YouTube Channel**: [Visita mi canal de YouTube](https://www.youtube.com/channel/UCAHdAWy0RTVI_9H7iWU68cA)
 
 <br>
 

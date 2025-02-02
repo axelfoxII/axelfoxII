@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Alex </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <div align="center">
-	<img src="https://ibb.co/sCBYLkk"  border="0">
+	<img src="https://i.ibb.co/PMSHB33/Banner-de-Youtube-tem-tica-Gamer-estilo-neon-rojo.png" alt="Banner-de-Youtube-tem-tica-Gamer-estilo-neon-rojo" border="0">
 </div> 
 
 
